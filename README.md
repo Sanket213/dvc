@@ -1,6 +1,6 @@
 DVC demo
 
-src, dvc_pipeline.txt, prams.yaml, readme.md
+src, dvc_pipeline.txt, prams.yaml, readme.md   --- this will be initial file
 
 1. git clone https://github.com/
 2. intall requirements 
